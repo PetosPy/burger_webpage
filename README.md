@@ -13,3 +13,7 @@ CSS
 
 The page has no functionalities yet!
 
+
+## Landing page
+![burger_page1](https://user-images.githubusercontent.com/64991182/120940691-e3236680-c6f4-11eb-9f6b-d4f7e3b31733.jpeg)
+
