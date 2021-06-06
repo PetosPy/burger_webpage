@@ -1,0 +1,159 @@
+/* PIZZA Block code */
+
+/* 1 */
+.parent2 {
+	position: relative;
+	width: 1860px;
+	height: 1000px;
+}
+/*Styling for day pizza on 2nd page.*/
+.day_pizza_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	left: 20px;
+	top: 70px;
+}
+.day_pizza {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.day_pizza_text {
+	font-size: 20px;
+	width: 280px;
+	height: 220px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+/* 2 */
+/* Styling for pizza mount */
+.pizza_mount_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	right: 30px;
+	top: 60px;
+}
+
+.pizza_mount {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.pizza_mount_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+/* 3 */
+/* Styling for franken_pizza */
+.franken_pizza_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	top: 280px;
+	right: 40%;
+}
+
+.franken_pizza {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.franken_pizza_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+
+/* 4 */
+/* Styling for pizza_combo */
+.pizza_combo_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	bottom: 150px;
+	right: 10%;
+}
+
+.pizza_combo {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.pizza_combo_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+/* 5 */
+/* Styling for chick_fillet */
+.chick_fillet_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	bottom: 80px;
+	left: 10%;
+}
+
+.chick_fillet {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.chick_fillet_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 30px;
+	right: 0px;
+}
+.form {
+	margin: 10px;
+}
+#order_1 {
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+#order_2 {
+	margin-left: 13px;
+	margin-top: 5px;
+}
+#order_3 {
+	margin-left: 14px;
+	margin-top: 5px;
+}
+
+#order_4 {
+	margin-left: 53px;
+	margin-top: 5px;
+}
+
+#textarea:focus {
+	background-color: #f8eded;
+}
+#textarea {
+	margin-top: 5px;
+}

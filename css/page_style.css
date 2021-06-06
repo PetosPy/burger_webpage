@@ -1,0 +1,198 @@
+
+body {
+	background-color: #f9dfdc;
+}
+
+.chef {
+	position: absolute;
+    left: 34%;
+    top: 0;
+}
+
+.chef_2 {
+	position: absolute;
+	top: 0;
+	left: 45%;
+	margin-top: 50px;
+}
+
+p , div {
+	color: #bf1363;
+
+}
+
+h1 {
+	color: #bf1363;
+	font-size: 50px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+hr {
+	border-style: dotted none none; 
+	width: 20%;
+	border-width: thick;
+	border-color: #bf1363;
+}
+
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+.parent1 {
+	position: relative;
+	width: 1860px;
+	height: 1000px;
+}
+
+
+/* 1 */
+/*Styling for first burger on page.*/
+.burger_1_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	left: 20px;
+	top: 20px;
+}
+.burger_1 {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.burger_1_text {
+	font-size: 20px;
+	width: 280px;
+	height: 220px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+/* 2 */
+/* Styling for burger and chips */
+.burger_chips_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	right: 30px;
+}
+
+.burger_chips {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.burger_chips_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+/* 3 */
+/* Styling for burger Combo */
+.combo_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	top: 280px;
+	right: 40%;
+}
+
+.burger_combo {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.burger_combo_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+
+/* 4 */
+/* Styling for burger Combo */
+.big_burg_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	bottom: 150px;
+	right: 10%;
+}
+
+.big_burger {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.big_burg_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+/* 5 */
+/* Styling for Chips */
+.chips_parent {
+	height: 250px;
+	position: absolute;
+	width: 600px;
+	bottom: 80px;
+	left: 10%;
+}
+
+.chips {
+	width: 300px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.chips_text {
+	font-size: 20px;
+	width: 280px;
+	height: 250px;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+}
+
+.delivery {
+	position: absolute;
+	right: 0;
+	margin: 20px;
+}
+
+#drinks {
+	position: absolute;
+	margin-left: 35%;
+	margin-top: 50px;
+
+}
+.button {
+	font-size: 15px;
+	border-radius: 8px;
+	background-color: white;
+	color: black;
+	border: 2px solid red;
+}
